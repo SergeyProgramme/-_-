@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    width: 420px;
+    margin-bottom: 62px;
+}
+p{
+    width: 420px;
+}
+
+.text:first-child{
+    color: yellow;
+}
+.text:nth-child(2){
+    color: blue;
+}
+.text:last-child{
+    color: green;
+}
+
+
+
+
+
